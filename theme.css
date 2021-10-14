@@ -1,0 +1,58 @@
+body {
+  background-color: #1f1f2e
+}
+#return{
+  text-align: center;
+  color: grey;
+  font-size: 15px;
+}
+h6{
+  text-align: center;
+  color: grey;
+  font-size: 5px;
+}
+h1 {
+  text-align: center;
+  color: grey;
+  font-size: 69px;
+}
+h2 {
+  color: white;
+  text-align: center;
+}
+p {
+  text-align: center;
+  color: grey;
+  font-size: 25px
+}
+p2{
+  color: white;
+  font-size: 15px;
+}
+h5{
+  text-align: center;
+  color: grey;
+}
+div{
+  font-size: 20px;
+  color: grey;
+}
+h4{
+  text-align: center;
+  color: grey;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+  border-radius: 50%;
+}
+}
+h5{
+  text-align: center;
+  color: white;
+}
+.uwu{
+  text-decoration:none;
+}
